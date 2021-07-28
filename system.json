@@ -36,6 +36,11 @@
       "lang": "ru",
       "name": "русский (Russian)",
       "path": "lang/ru.json"
+    },
+    {
+      "lang": "zh-tw",
+      "name": "正體中文",
+      "path": "lang/zh-tw.json"
     }
   ],
   "gridDistance": 1,
